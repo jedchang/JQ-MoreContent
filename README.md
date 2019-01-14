@@ -1,9 +1,11 @@
-# JQ-MoreContent ![image](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# JQ-MoreContent ![image](https://img.shields.io/badge/jQuery-exercise-brightgreen.svg)
 
 jQuery More Content Exercise
 
 HTML+SCSS+jQuery
 
-[DEMO]()
+[DEMO](https://jedchang.github.io/JQ-MoreContent/)
 
-![image]
+![image](https://github.com/jedchang/JQ-MoreContent/blob/master/preview-1.jpg)
+![image](https://github.com/jedchang/JQ-MoreContent/blob/master/preview-2.jpg)
+![image](https://github.com/jedchang/JQ-MoreContent/blob/master/preview-3.jpg)
