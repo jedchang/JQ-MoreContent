@@ -1,0 +1,118 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #e7e7e7;
+}
+
+#wrapper {
+  margin: 0 auto;
+  padding: 80px 0;
+  width: 640px;
+  text-align: left;
+}
+
+#wrapper #load-area {
+  margin: 0 auto;
+  width: 640px;
+  font-size: 0;
+  text-align: left;
+}
+
+#wrapper #load-area a {
+  text-decoration: none;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: bottom;
+  margin: 0 5px 10px 5px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+#wrapper #load-area a:hover {
+  -webkit-box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+  -webkit-transform: translate(0px, -5px) rotate(0.01deg);
+      -ms-transform: translate(0px, -5px) rotate(0.01deg);
+          transform: translate(0px, -5px) rotate(0.01deg);
+}
+
+#wrapper #load-area img {
+  width: 150px;
+  opacity: 0;
+}
+
+#wrapper a#more-btn {
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 20px auto;
+  padding: 15px 0;
+  width: 630px;
+  color: #fff;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  text-align: center;
+  display: block;
+  background: #777;
+  border-radius: 6px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+#wrapper a#more-btn:hover {
+  background: #353535;
+}
+
+#wrapper a#more-btn i.fas {
+  margin-right: 8px;
+}
+
+#wrapper a#more-btn.no-more {
+  background: #d4d4d4;
+  cursor: default;
+}
+
+#overlay {
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #000;
+  position: fixed;
+  z-index: 97;
+  display: none;
+}
+
+#modal-box {
+  margin-top: -200px;
+  margin-left: -300px;
+  top: 50%;
+  left: 50%;
+  width: 600px;
+  height: 400px;
+  background: #fff;
+  position: fixed;
+  z-index: 98;
+  display: none;
+}
+
+#modal-box .close-btn {
+  top: 0px;
+  right: -62px;
+  width: 60px;
+  height: 45px;
+  background-image: url(../images/close-btn.png);
+  color: #fff;
+  font-size: 1.5em;
+  border-radius: 30px;
+  position: absolute;
+  z-index: 99;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
