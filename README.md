@@ -1,6 +1,5 @@
-# JQ-MoreContent ![image](https://img.shields.io/badge/jQuery-exercise-brightgreen.svg)
-
-jQuery More Content Exercise
+# JQ-MoreContent 
+![image](https://img.shields.io/badge/jQuery-exercise-brightgreen.svg)
 
 HTML+SCSS+jQuery
 
