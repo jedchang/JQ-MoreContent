@@ -1,7 +1,6 @@
 # JQ-More-Content
 
-![image](https://img.shields.io/badge/jQuery-exercise-brightgreen.svg)
-![image](https://img.shields.io/badge/SASS-exercise-ff69b4.svg)
+![image](https://img.shields.io/badge/jQuery-exercise-0769AD.svg) ![image](https://img.shields.io/badge/SCSS-exercise-CD6799.svg)
 
 ![images](https://github.com/jedchang/JQ-MoreContent/blob/master/preview-1.jpg)
 ![images](https://github.com/jedchang/JQ-MoreContent/blob/master/preview-2.jpg)
